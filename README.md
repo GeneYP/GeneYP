@@ -12,8 +12,8 @@ I’m @GeneYP, a rookie programmer from China.
 <!-- - 💬 Personal Site: https://www.GeneYP.com -->
 
 <p align="left">
-<img height='200' src="https://github-readme-stats.vercel.app/api?username=GeneYP&show_icons=true&include_all_commits=true">
-<img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeneYP">
+<img height='200' src="https://github-readme-stats.vercel.app/api?username=GeneYP&show_icons=true&include_all_commits=true&locale=cn">
+<img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeneYP&locale=cn">
 </p>
 
 <!--
