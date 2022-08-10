@@ -2,19 +2,23 @@
 GeneYP/GeneYP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### Hello there 👋( ´▽｀)
+## About Me
+### Hello there! 👋( ´▽｀)
 
-I’m @GeneYP, a rookie programmer from China.
+I’m [@GeneYP](https://github.com/GeneYP/), a rookie programmer from China.
 
 - 🔭 Major in software engineering. o(｀ω´ )o
 - 👀 I’m interested furry, guitar, fitness ...
-- 🌱 Amateur for game programming. (￣▽￣)
-<!-- - 💬 Personal Site: https://www.GeneYP.com -->
+- 🌱 Amateur for rhythm game. (￣▽￣)
+- 💬 Personal Blog: https://www.gene-yp.com/ 
 
 <p align="left">
-<img height='200' src="https://github-readme-stats.vercel.app/api?username=GeneYP&show_icons=true&include_all_commits=true&locale=cn">
-<img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeneYP&locale=cn">
+<img height='200' src="https://github-readme-stats.vercel.app/api?username=GeneYP&show_icons=true&include_all_commits=true">
+<img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeneYP">
 </p>
+
+## My Works
+<img height='200' src="https://pic.gene-yp.com/i/2022/08/10/12pif13.jpeg">
 
 <!--
 
