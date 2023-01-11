@@ -20,7 +20,7 @@ I’m [@GeneYP](https://github.com/GeneYP/), a rookie programmer from China.
 <!-- ## My Works
 <img height='200' src="https://pic.gene-yp.com/i/2022/08/10/12pif13.jpeg"> -->
 
-# Github Metrics
+## Github Metrics
 ![GeneYP](github-metrics.svg)
 
 <!--
