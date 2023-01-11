@@ -17,8 +17,8 @@ I’m [@GeneYP](https://github.com/GeneYP/), a rookie programmer from China.
 <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeneYP">
 </p>
 
-## My Works
-<img height='200' src="https://pic.gene-yp.com/i/2022/08/10/12pif13.jpeg">
+<!-- ## My Works
+<img height='200' src="https://pic.gene-yp.com/i/2022/08/10/12pif13.jpeg"> -->
 
 # Github Metrics
 ![GeneYP](github-metrics.svg)
