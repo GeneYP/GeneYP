@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 I’m [@GeneYP](https://github.com/GeneYP/), a rookie programmer from China.
 
 - 🔭 Major in software engineering. o(｀ω´ )o
-- 👀 I’m interested furry, guitar, fitness ...
+- 👀 I’m interested in furries, guitar, fitness ...
 - 🌱 Amateur for rhythm game. (￣▽￣)
 - 💬 Personal Blog: https://www.gene-yp.com/ 
 
